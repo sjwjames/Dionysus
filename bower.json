@@ -1,0 +1,19 @@
+{
+  "name": "Dionysus",
+  "homepage": "sjwjames.xyz",
+  "authors": [
+    "Jianwei <sjwjames@126.com>"
+  ],
+  "description": "Game Designer",
+  "main": "main.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "game",
+    "designer",
+    "html5"
+  ],
+  "license": "MIT"
+}
