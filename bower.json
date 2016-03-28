@@ -15,5 +15,8 @@
     "designer",
     "html5"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
 }
